@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **M Saivishnu Sarode** - [LinkedIn](https://www.linkedin.com/in/saivishnu2002) | [GitHub](https://github.com/yourusername)
+- **M Saivishnu Sarode** - [LinkedIn](https://www.linkedin.com/in/saivishnu2002) | [GitHub](https://github.com/Saivishnu4)
 
 ## 🙏 Acknowledgments
 
