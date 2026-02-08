@@ -141,11 +141,11 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Download pre-trained models** (if available)
+4. **Download pre-trained models**
 ```bash
 python scripts/download_models.py
 ```
-5.  **Dataset Download**
+5.  **Download Dataset**
  ```bash
 https://www.kaggle.com/datasets/msambare/fer2013
  ```
