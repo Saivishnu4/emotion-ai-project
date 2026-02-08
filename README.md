@@ -145,7 +145,10 @@ pip install -r requirements.txt
 ```bash
 python scripts/download_models.py
 ```
-
+5.  **Dataset Download**
+ ```bash
+https://www.kaggle.com/datasets/msambare/fer2013
+ ```
 ## 💻 Usage
 
 ### Training Models
