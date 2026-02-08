@@ -126,7 +126,7 @@ CUDA 11.x (for GPU support)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/emotion-ai-project.git
+git clone https://github.com/Saivishnu4/emotion-ai-project.git
 cd emotion-ai-project
 ```
 
